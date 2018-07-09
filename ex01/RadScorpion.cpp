@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "RadScorpion.hh"
 
 RadScorpion::RadScorpion() : AEnemy(80, "RadScorpion")

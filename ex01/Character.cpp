@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "Character.hh"
 
 Character::Character(std::string const& name) : _ap(40), _weapon(NULL), _name(name)
@@ -59,3 +55,4 @@ std::ostream&	operator<<(std::ostream& os, Character const& character)
     os << character.getName() << " has " << character.getAP() << " AP and is unarmed" << std::endl;
   return os;
 }
+

@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "PlasmaRifle.hh"
 
 PlasmaRifle::PlasmaRifle() : AWeapon("Plasma Rifle", 5, 21)

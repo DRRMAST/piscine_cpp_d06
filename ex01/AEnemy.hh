@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef AENEMY_
-#define AENEMY_
+#ifndef AENEMY_HH
+#define AENEMY_HH
 
 #include <iostream>
 

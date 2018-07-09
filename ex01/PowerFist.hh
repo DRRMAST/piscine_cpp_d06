@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef POWERFIST_
-#define POWERFIST_
+#ifndef POWERFIST_HH
+#define POWERFIST_HH
 
 #include "AWeapon.hh"
 

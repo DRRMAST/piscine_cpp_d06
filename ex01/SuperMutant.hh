@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef SuperMutant_
-#define SuperMutant_
+#ifndef SuperMutant_HH
+#define SuperMutant_HH
 
 #include <iostream>
 #include "AEnemy.hh"

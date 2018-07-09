@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef AWEAPON_
-#define AWEAPON_
+#ifndef AWEAPON_HH
+#define AWEAPON_HH
 
 #include <iostream>
 

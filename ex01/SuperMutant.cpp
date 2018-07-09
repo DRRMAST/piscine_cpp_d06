@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "SuperMutant.hh"
 
 SuperMutant::SuperMutant() : AEnemy(170, "Super Mutant")

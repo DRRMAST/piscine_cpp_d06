@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef CHARACTER_
-#define CHARACTER_
+#ifndef CHARACTER_HH
+#define CHARACTER_HH
 
 #include "AWeapon.hh"
 #include "AEnemy.hh"

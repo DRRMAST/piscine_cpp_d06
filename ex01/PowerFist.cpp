@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "PowerFist.hh"
 
 PowerFist::PowerFist() : AWeapon("Power Fist", 8, 50)

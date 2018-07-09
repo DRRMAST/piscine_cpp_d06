@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "AWeapon.hh"
 
 AWeapon::AWeapon(std::string const& name, int apcost, int damage) : _name(name), _dmgNb(damage), _apCost(apcost)

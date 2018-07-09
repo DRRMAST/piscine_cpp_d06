@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef RADSCORPION_
-#define RADSCORPION_
+#ifndef RADSCORPION_HH
+#define RADSCORPION_HH
 
 #include "AEnemy.hh"
 

@@ -1,7 +1,3 @@
-/**
- * vadee_s
- */
-
 #include "AEnemy.hh"
 
 AEnemy::AEnemy(int hp, std::string const& type) : _type(type), _hp(hp)

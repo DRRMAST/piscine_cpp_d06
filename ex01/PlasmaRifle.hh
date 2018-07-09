@@ -1,9 +1,5 @@
-/**
- * vadee_s
- */
-
-#ifndef PLASMARIFLE_
-#define PLASMARIFLE_
+#ifndef PLASMARIFLE_HH
+#define PLASMARIFLE_HH
 
 #include "AWeapon.hh"
 
